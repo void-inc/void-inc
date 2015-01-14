@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
 My name is Jeroen, a 19 year old game development student who's eager to get started.
